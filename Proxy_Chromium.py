@@ -19,3 +19,4 @@ capabilities['proxy']['socksUsername'] = proxy['username']
 capabilities['proxy']['socksPassword'] = proxy['password']
 
 driver = webdriver.Chrome(executable_path=[path to your chromedriver], desired_capabilities=capabilities)
+dirver.get(https://wieistmeineip.de/)
